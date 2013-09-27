@@ -1,0 +1,17 @@
+{
+  "name": "Chrome Packaged App",
+  "description": "Chrome Packaged App Description...",
+  "manifest_version": 2,  
+  "version": "0.0.1",
+  "minimum_chrome_version": "23",
+  "icons": {
+    "16": "img/icon_16.png",
+    "128": "img/icon_128.png"
+  },
+  "app": {
+    "background": {
+      "scripts": ["js/main.js"]
+    }
+  },
+  "permissions": ["webview"]
+}
