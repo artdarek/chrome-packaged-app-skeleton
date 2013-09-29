@@ -1,1 +1,1 @@
-Skeleton application for google chrome
+Skeleton application for google chrome with custom toolbar.
