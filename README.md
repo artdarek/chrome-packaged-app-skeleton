@@ -1,1 +1,1 @@
-MapCoords Chrome App
+Skeleton application for google chrome
